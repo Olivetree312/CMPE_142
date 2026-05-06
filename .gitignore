@@ -1,0 +1,27 @@
+.vscode
+
+#Compiled binaries
+sea_break
+sea_enc
+temp_out
+dump_ptable
+ptable_exe
+bitnovia-audit
+word-class
+a.out
+*.o
+*.out
+*.exe
+
+#common build directories
+build/
+bin/
+dist/
+
+#mac
+.DS_Store
+*.dSYM/
+
+#editor junk
+*.swp
+*.tmp
